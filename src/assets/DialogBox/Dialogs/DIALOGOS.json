@@ -1,0 +1,183 @@
+{
+  "pet": {
+    "dialogs": [
+      "......",
+      "......E ai, o que tu vende?",
+      "Estou sem estoque, mas eu vendo comida de pet.",
+      "NOSSA!!! Eu esqueci de comprar comida para os meus pets! Não tem nem um pouco?",
+      "Não!, mesmo se tivesse, você precisa de grana e XP e isso só consegue fora daqui",
+      "......"
+    ],
+    "imgAvatarLeft": [
+      "../",
+      "/src/assets/DialogBox/Dialogs/Img/jacare.png",
+      "/src/assets/DialogBox/Dialogs/Img/jacareOpc.png",
+      "/src/assets/DialogBox/Dialogs/Img/jacare.png",
+      "/src/assets/DialogBox/Dialogs/Img/jacareOpc.png",
+      "/src/assets/DialogBox/Dialogs/Img/jacare.png",
+      "/src/assets/DialogBox/Dialogs/Img/jacareOpc.png"
+    ],
+    "imgAvatarRight": [
+      "/src/assets/DialogBox/Dialogs/Img/euOpc.png",
+      "/src/assets/DialogBox/Dialogs/Img/euOpc.png",
+      "/src/assets/DialogBox/Dialogs/Img/eu.png",
+      "/src/assets/DialogBox/Dialogs/Img/euOpc.png",
+      "/src/assets/DialogBox/Dialogs/Img/euassustado.png",
+      "/src/assets/DialogBox/Dialogs/Img/euOpc.png",
+      "/src/assets/DialogBox/Dialogs/Img/eutriste.png"
+    ]
+  },
+  "info": {
+    "dialogs": [
+      "Olá visitante! Seja bem-vindo(a) à Portlândia, Eu sou Sir. Flog, como posso ajudar?",
+      "Olá! Eu sou novo por aqui, poderia me mostrar onde ir?",
+      "Claro meu jovem, te entregarei um mapa, \"aperte a tecla M\" para ver o mapa. Boa sorte! E leia as placas.",
+      "Muito Obrigado!"
+    ],
+    "imgAvatarLeft": [
+      "/src/assets/DialogBox/Dialogs/Img/sapo.png",
+      "/src/assets/DialogBox/Dialogs/Img/sapo.png",
+      "/src/assets/DialogBox/Dialogs/Img/sapoOpc.png",
+      "/src/assets/DialogBox/Dialogs/Img/sapo.png",
+      "/src/assets/DialogBox/Dialogs/Img/sapoOpc.png"
+    ],
+    "imgAvatarRight": [
+      "/src/assets/DialogBox/Dialogs/Img/euOpc.png",
+      "/src/assets/DialogBox/Dialogs/Img/euOpc.png",
+      "/src/assets/DialogBox/Dialogs/Img/eu.png",
+      "/src/assets/DialogBox/Dialogs/Img/euOpc.png",
+      "/src/assets/DialogBox/Dialogs/Img/eusorrindo.png"
+    ]
+  },
+  "xp": {
+    "dialogs": [
+      "Oii, como estás? Essa aqui é minha loja, infelizmente não poderei te ajudar.",
+      "Ok! Mas por quê? E o que você vende?",
+      "Experiência! Eu troco dinheiro em XP, mas XP só se consegue fora de Portlândia, e o caminho está em obra.",
+      "Ah que pena!"
+    ],
+    "imgAvatarLeft": [
+      "/src/assets/DialogBox/Dialogs/Img/princesa.png",
+      "/src/assets/DialogBox/Dialogs/Img/princesa.png",
+      "/src/assets/DialogBox/Dialogs/Img/princesaOpc.png",
+      "/src/assets/DialogBox/Dialogs/Img/princesa.png",
+      "/src/assets/DialogBox/Dialogs/Img/princesaOpc.png"
+    ],
+    "imgAvatarRight": [
+      "/src/assets/DialogBox/Dialogs/Img/euOpc.png",
+      "/src/assets/DialogBox/Dialogs/Img/euOpc.png",
+      "/src/assets/DialogBox/Dialogs/Img/eu.png",
+      "/src/assets/DialogBox/Dialogs/Img/euOpc.png",
+      "/src/assets/DialogBox/Dialogs/Img/eutriste.png"
+    ]
+  },
+  "style": {
+    "dialogs": [
+      "Raargh! Jovens me irritam.",
+      "Que isso cara, nem falei nada.",
+      "Agora falou, aproveita e me dá tua grana, moleque. Olha minha loja ai.",
+      "Mas nem tem nada ai seu mal educado.",
+      "Droga! Esse caminho de #*$&@ nunca fica pronto! O que eu vendo não te interessa, sai daqui!",
+      "....... Ok né."
+    ],
+    "imgAvatarLeft": [
+      "/src/assets/DialogBox/Dialogs/Img/mago.png",
+      "/src/assets/DialogBox/Dialogs/Img/mago.png",
+      "/src/assets/DialogBox/Dialogs/Img/magoOpc.png",
+      "/src/assets/DialogBox/Dialogs/Img/mago.png",
+      "/src/assets/DialogBox/Dialogs/Img/magoOpc.png",
+      "/src/assets/DialogBox/Dialogs/Img/mago.png",
+      "/src/assets/DialogBox/Dialogs/Img/magoOpc.png"
+    ],
+    "imgAvatarRight": [
+      "/src/assets/DialogBox/Dialogs/Img/euOpc.png",
+      "/src/assets/DialogBox/Dialogs/Img/euOpc.png",
+      "/src/assets/DialogBox/Dialogs/Img/euassustado.png",
+      "/src/assets/DialogBox/Dialogs/Img/euOpc.png",
+      "/src/assets/DialogBox/Dialogs/Img/eu.png",
+      "/src/assets/DialogBox/Dialogs/Img/euOpc.png",
+      "/src/assets/DialogBox/Dialogs/Img/eu.png"
+    ]
+  },
+  "doIt": {
+    "dialogs": [
+      "Olá......... Pedra? Aqui fica o Correio?",
+      "Olá serzinho, sim aqui fica o correio, porém ele ainda está em construção. Como você se chama?",
+      "Ah, que pena. Me chamo Mateus e você?",
+      "Eu me chamo..... eu não lembro quem sou nem o que faço... não lembro como vim parar aqui",
+      "Vish...",
+      "Poderia me ajudar a lembrar o que faço contando O QUE VOCÊ FAZ?",
+      "Claro que sim!"
+    ],
+    "imgAvatarLeft": [
+      "/src/assets/DialogBox/Dialogs/Img/golemOpc.png",
+      "/src/assets/DialogBox/Dialogs/Img/golemOpc.png",
+      "/src/assets/DialogBox/Dialogs/Img/golem.png",
+      "/src/assets/DialogBox/Dialogs/Img/golemOpc.png",
+      "/src/assets/DialogBox/Dialogs/Img/golem.png",
+      "/src/assets/DialogBox/Dialogs/Img/golemOpc.png",
+      "/src/assets/DialogBox/Dialogs/Img/golem.png",
+      "/src/assets/DialogBox/Dialogs/Img/golemOpc.png"
+    ],
+    "imgAvatarRight": [
+      "/src/assets/DialogBox/Dialogs/Img/eu.png",
+      "/src/assets/DialogBox/Dialogs/Img/eu.png",
+      "/src/assets/DialogBox/Dialogs/Img/euOpc.png",
+      "/src/assets/DialogBox/Dialogs/Img/eu.png",
+      "/src/assets/DialogBox/Dialogs/Img/euOpc.png",
+      "/src/assets/DialogBox/Dialogs/Img/eutriste.png",
+      "/src/assets/DialogBox/Dialogs/Img/euOpc.png",
+      "/src/assets/DialogBox/Dialogs/Img/eusorrindo.png"
+    ]
+  },
+  "placaCasa": {
+    "dialogs": ["↱Casa ↴Cidade dos Anões"],
+    "imgAvatarLeft": [],
+    "imgAvatarRight": []
+  },
+  "placaFloresta": {
+    "dialogs": ["↓Floresta ↵Sair de Portlândia"],
+    "imgAvatarLeft": [],
+    "imgAvatarRight": []
+  },
+  "placaCidade": {
+    "dialogs": [
+      "Seja Bem-vindo(a) à cidade mercantil dos anões (não tente entrar nas casas, você não cabe), fique a vontade!",
+      "↓Biblioteca",
+      "OBS.: cuidado com alguns anões, eles costumam ter temperamento forte. Mesmo assim, fale com todos"
+    ],
+    "imgAvatarLeft": [],
+    "imgAvatarRight": []
+  },
+  "placaPonte": {
+    "dialogs": ["↓Correio, →Cidade dos anões"],
+    "imgAvatarLeft": [],
+    "imgAvatarRight": []
+  },
+  "sobreMim": {
+    "dialogs": [
+      "AAAAH!!! Que susto, cara.",
+      "....Opa! Não tinha te visto ai antes, tudo bem?",
+      "Huuum, então você quer me conhecer? Ok então.",
+      "Me chamo Mateus, tenho 20 anos e sou Front-End Developer Jr., atualmente curso bacharel em Ciência da Computação.",
+      "Aprendi a programar sozinho antes de entrar na faculdade (inclusive desenvolvi este site antes da faculdade).",
+      "Tenho um pouco mais de 1 ano de experiência com projetos próprios. Amo jogos e animais, meus pets estão no mapa.",
+      "Vamos tomar um café? Eu prometo que não vai se arrepender. Meus contatos ficam dentro da minha casa......",
+      ".....................",
+      "Ah, você não sabe onde fica? É só falar com o informante Sapo ali em cima."
+    ],
+    "imgAvatarLeft": [],
+    "imgAvatarRight": [
+      "/src/assets/DialogBox/Dialogs/Img/euassustado.png",
+      "/src/assets/DialogBox/Dialogs/Img/euassustado.png",
+      "/src/assets/DialogBox/Dialogs/Img/eu.png",
+      "/src/assets/DialogBox/Dialogs/Img/eusorrindo.png",
+      "/src/assets/DialogBox/Dialogs/Img/eu.png",
+      "/src/assets/DialogBox/Dialogs/Img/eu.png",
+      "/src/assets/DialogBox/Dialogs/Img/eu.png",
+      "/src/assets/DialogBox/Dialogs/Img/eusorrindo.png",
+      "",
+      "/src/assets/DialogBox/Dialogs/Img/eusorrindo.png"
+    ]
+  }
+}

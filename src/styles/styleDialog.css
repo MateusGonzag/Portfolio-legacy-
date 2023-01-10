@@ -1,0 +1,88 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+@font-face {
+    font-family: 'pixel';
+    src: url('../assets/Fonts/rainyhearts.ttf');
+}
+
+img {
+    width: 100%;
+}
+
+
+.boxWrapper, .box, .dialogWrapper, .wrapper, .background {
+    image-rendering: pixelated;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border: solid;
+}
+
+.wrapper {
+    align-items: end;
+    height: 100vh;
+    border: none;
+}
+
+.boxWrapper {
+    border: solid;
+    width: 50%;
+    height: 24vh;
+    border-image: url('../assets/DialogBox/bordaBox.png') 66 / 30px stretch;
+    padding: 4.1vh;
+    
+}
+
+.box {
+    width: 100%;
+    height: 100%;
+    background-image: url('../assets/DialogBox/fundoBox.png');
+    background-position: center;
+    border: none;
+}
+
+.dialogWrapper {
+    font-family: pixel;
+    align-items: flex-start;
+    justify-content: space-between;
+    background-color: #D2AB73;
+    border-image: url('../assets/DialogBox/bordaMeio.png') 66 / 2.4vh stretch;
+    border-radius: 10%;
+    width: 85%;
+    height: 70%;
+}
+
+.dialog{
+    margin: 2vh auto 2vh 3vh;
+    font-size: 1.5rem;
+    max-width: 70vh;
+    max-height: 75%;
+}
+
+.info {
+    font-size: 0.9rem;
+    font-style: italic;
+    padding: 1vh;
+    margin: 2.5vh 2.5vh 2.5vh auto;
+    border-radius: 1.5vh;
+    align-self: flex-end;
+    background-color: #C58D66;
+}
+
+.avatar1, .avatar2 {
+    image-rendering: pixelated;
+    width: 45vh;
+    z-index: 3;
+    margin-bottom: -1vh;
+}
+
+.avatar1 {
+    margin-right: -12vh;
+}
+
+.avatar2 {
+    margin-left: -12vh;
+}
