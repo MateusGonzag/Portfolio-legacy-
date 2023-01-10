@@ -21,13 +21,15 @@ Se quiser saber mais sobre o projeto, é importante ler essa parte do README. Co
 + <a href="https://www.piskelapp.com/p/create/sprite">Piskel</a>
 + Canva
 
-### Aprendizados
+## Aprendizados
 
 Me orgulho muito desse projeto, pois estou usando todo o meu conhecimento e aprendendo muito. Tive que aprender usar um Lib nova em 1 mês apenas para esse projeto (phaser 3),
 e me virar MUITO, já que a documentção dessa biblioteca é bem confusa. Porém o projeto está andando. Vou adicionar os fluxogramas e rascunhos do projeto aqui e no Instagram para
 os passos do projetos ficarem mais claros.
 
-### :gear: Ajustes e melhorias
+</br>
+
+## :gear: Ajustes e melhorias
 
 Como o projeto ainda está em fase de desenvolvimento, ainda faltam algumas coisas, como: O cenário da casa, onde vão ficar meus projetos e outras coisas, e mais outras funcionalidades que não direi agora.
 Depois irei desenvolver um mini-game dentro do portfólio, mas apenas para dar utilidade para alguns lugares do mapa.
